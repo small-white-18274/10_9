@@ -32,6 +32,6 @@ spring:
 minio:
   accessKey: minioadmin
   secretKey: minioadmin
-  bucket: test
+  bucket: data
   endpoint: http://localhost:9000
   readPath: http://localhost:9000
